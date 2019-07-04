@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Workplace/Apps/MobileApp/node_modules/@segment/analytics-react-native-mixpanel/android/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-v24/values-v24.xml",
+            "map": [
+                {
+                    "source": "/Users/morfmorf/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/3e992421520f19e4c6923c3026bd212a/res/values-v24/values-v24.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,212",
+                        "endColumns": "156,134",
+                        "endOffsets": "207,342"
+                    }
+                }
+            ]
+        }
+    ]
+}

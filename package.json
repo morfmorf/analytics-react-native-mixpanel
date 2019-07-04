@@ -1,0 +1,34 @@
+{
+  "_from": "@segment/analytics-react-native-mixpanel",
+  "_id": "@segment/analytics-react-native-mixpanel@1.1.0-beta.0",
+  "_inBundle": false,
+  "_integrity": "sha512-zrJE9Qsc0UGVd9bTwOZQMXXE5rN5yf8DyWkf2y9MTq3dQiAKzDcCIDHdf0CAKCXcBoIyMf7kQCn6wAXzY4xH/w==",
+  "_location": "/@segment/analytics-react-native-mixpanel",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@segment/analytics-react-native-mixpanel",
+    "name": "@segment/analytics-react-native-mixpanel",
+    "escapedName": "@segment%2fanalytics-react-native-mixpanel",
+    "scope": "@segment",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@segment/analytics-react-native-mixpanel/-/analytics-react-native-mixpanel-1.1.0-beta.0.tgz",
+  "_shasum": "7ff8f605a0c065f75f0778a16862ce2a27a24c97",
+  "_spec": "@segment/analytics-react-native-mixpanel",
+  "_where": "/Workplace/Apps/MobileApp",
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Mixpanel Integration for Segment's React-Native analytics library.",
+  "license": "MIT",
+  "main": "index.js",
+  "name": "@segment/analytics-react-native-mixpanel",
+  "version": "1.1.0-beta.0"
+}
